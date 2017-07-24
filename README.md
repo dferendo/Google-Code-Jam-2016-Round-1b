@@ -1,4 +1,4 @@
-# Codejam2016Round1b
+# Google Code jam 2016 Round 1b
 -------------------------------
 The question can be found here: https://code.google.com/codejam/contest/11254486/dashboard
 
